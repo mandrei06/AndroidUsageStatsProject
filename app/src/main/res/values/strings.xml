@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppUsageTracker</string>
+    <string name="permission_description">In order to allow this application to collect your apps usage information, you need to allow "Package Usage Stats" permission from the Settings application.\nYou can cancel this permission anytime.</string>
+    <string name="string0">Spending a long time in a sedentary activity such as video games, television, telephone is a risk factor for obesity and heart problems, increasing the chance of diabetes, blood pressure or cholesterol.</string>
+    <string name="string1">Sometimes we spend time late at night on devices without going to sleep. In fact, their light interferes with the brain sleep cycle and can prevent a good night sleep. Try to keep the screens out of the bedroom and avoid them at least an hour before bedtime.</string>
+    <string name="string2">Too much time spent on devices can lead to a wrong posture, namely chronic neck, shoulder and back pain. Take breaks while walking or lying down, make sure the seat provides back support and keep the device at eye level.</string>
+    <string name="string3">Often our screen devices damage the eyes. We are used to looking for a long time at a distance of a few inches in front of us which is bad for the health of our eyes. To avoid problems, try to take breaks and avoid long periods of time spent in front of a screen</string>
+    <string name="string4">Experts suggest that longer screen time and depression may be connected along with an increase in suicidal behaviours and a lower ability to read emotions in general </string>
+    <string name="string5">Spending too much time in front of screens can cause: \n• Shortened Attention Span \n• Changing the Way You Think \n• Making You Passive </string>
+    <string name="string6">Smartphones encourage the fear of missing out (FOMO) - It is easy to get caught up in people photos and get caught up in the FOMO concept. “People tend to compare themselves to others on social media platforms,” Dr. Flores said. “However, basing self-worth on social media ‘likes’ is not healthy.” </string>
+    <string name="string7">Causing Car Crashes-Cell phones are involved in 27% of car crashes in the United States, according to the National Safety Council.  </string>
+    <string name="string8">Cyberbullying-About 10 percent of teens report being bullied on social media and many other users are subjected to offensive comments </string>
+    <string name="string9">•Replaces time spent on devices with physical activities, play with friends/pets, sports, dance, board games, join a club, volunteer, have time for self-meditation, yoga, etc.
+\n• Use an app to track how much time you spend on social media each day. Then set a goal for how much you want to reduce it by.
+\n• Don’t bring your phone or tablet to bed
+\n• Disable social media notifications even try to remove social media apps from your phone
+ </string>
+</resources>
